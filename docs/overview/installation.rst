@@ -71,6 +71,7 @@ You should see the following output:
             https://aka.ms/CLI_refstatus
     Subgroups:
         code        : Manage Azure ML code assets.
+        component   : Manage Azure ML components.
         compute     : Manage Azure ML compute resources.
         data        : Manage Azure ML data assets.
         datastore   : Manage Azure ML datastores.
