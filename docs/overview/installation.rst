@@ -71,6 +71,7 @@ You should see the following output:
             https://aka.ms/CLI_refstatus
     Subgroups:
         code        : Manage Azure ML code assets.
+        component   : Manage Azure ML components.
         compute     : Manage Azure ML compute resources.
         data        : Manage Azure ML data assets.
         datastore   : Manage Azure ML datastores.
@@ -92,4 +93,4 @@ Install with private index
 
 .. code-block:: console
 
-pip install azure-ml -U --extra-index-url https://azuremlsdktestpypi.azureedge.net/sdk-cli-v2
+    pip install azure-ml -U --extra-index-url https://azuremlsdktestpypi.azureedge.net/sdk-cli-v2
